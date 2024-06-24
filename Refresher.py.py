@@ -44,7 +44,7 @@ def reverse(name):
     elif name[::-1].lower() != name:
         print(f"{name} is not a polindrome")
 
-reverse("malayalam")
+reverse("mayam")
 
 # --------------------------------------------------
 '''Task 6. Generate Fibonacci Series up to n terms'''
